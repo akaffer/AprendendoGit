@@ -1,3 +1,3 @@
 # AprendendoGit
 
-Aprendendo a usar o github
+Aprendendo a usar o Git  GitHub
